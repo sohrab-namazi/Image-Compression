@@ -1,2 +1,2 @@
 # Image-Compression
-This project contains both documentation about Image Compression and the implementation of that.
+This project contains both a theoretical documentation about Image Compression and the implementation of that.
